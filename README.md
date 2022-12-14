@@ -4,6 +4,6 @@
 
 OPGG에서 데이터를 제공해주셔서 라이너별로 동선을 Clustering 해보았습니다.
 
-### 'hearald route clustering.ipynb'
+### 'hearald route clustering.ipynb' 혹은 'hearald route clustering.html' : MAIN 파일
 
-메인파일
+
