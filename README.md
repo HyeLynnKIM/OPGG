@@ -4,14 +4,13 @@
 
 ```bash
 ├── hearald route clustering.ipynb/html
-├── data_augmentation.py
+├── feature_engineering.py
 ├── data_preprocessing.py
-├── generate_queries.py
-├── krx_api.py
-├── krx_db_utils.py
-├── krx_def.py
-├── masking_utils.py
-└── squad_utils.py
+├── herald_route_clustering.py
+├── visualization.py
+├── 유용한_반복문_정리용.py
+├── dtw_resize.png
+└── requirements.txt
 ``` 
 
 OPGG에서 데이터를 제공해주셔서 라이너별로 동선을 Clustering 해보았습니다.
