@@ -15,6 +15,8 @@
 
 OPGG에서 데이터를 제공해주셔서 라이너별로 동선을 Clustering 해보았습니다.
 
-### 'hearald route clustering.ipynb' 혹은 'hearald route clustering.html' : MAIN 파일
+### 'hearald route clustering.ipynb' : MAIN 파일
 
+### 결과물 - 전령 시간 대 라이너의 이동
+![image](https://github.com/HyeLynnKIM/OPGG/assets/64192139/b80976f1-6edd-4eff-adb0-91d81a41367c)
 
